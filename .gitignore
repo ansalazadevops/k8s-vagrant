@@ -1,0 +1,7 @@
+.vagrant/
+.vscode/
+backup/
+.grafana-admin-password
+admin.conf
+join.sh
+
